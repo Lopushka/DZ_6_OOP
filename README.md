@@ -89,7 +89,7 @@ return edge * edge * edge;
 ​
 Подсказка: круг не объемная фигура и этому классу не нужен метод volume().
 ​
-Задачи со *
+### Задачи со * .
 
 4. Переписать код в соответствии с Liskov Substitution Principle:
 public class Rectangle {
